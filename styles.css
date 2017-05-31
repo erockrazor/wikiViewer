@@ -1,0 +1,22 @@
+body {
+  background-color: #3E7C7C;
+  color: white;
+  font-family: 'Roboto';
+}
+
+h1 {
+  color: black;
+  padding: 10px;
+}
+
+.header{
+  text-align: center;
+}
+
+a:link{
+  color: white;
+}
+
+a:hover{
+  text-decoration-color: white;
+}
